@@ -1,0 +1,11 @@
+turma many-to-many alunos
+
+professor one-to-one turma
+
+curso one-to-one turma
+
+turma one-to-one diaaula
+
+sala one-to-one diaaula
+
+unique constraint
